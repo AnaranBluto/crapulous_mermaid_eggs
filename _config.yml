@@ -5,7 +5,7 @@ social_username: broccolini
 github_repo: athena
 github_username: broccolini
 theme_color: black
-remote_theme: ' volny/creative-theme-jekyll/ '
+remote_theme: volny/creative-theme-jekyll
 baseurl: /crapulous_mermaid_eggs
 defaults:
   - scope:
